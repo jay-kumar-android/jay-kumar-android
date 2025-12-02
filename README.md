@@ -13,6 +13,8 @@ I specialize in crafting efficient, scalable, and user-focused Android applicati
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
+My Portfolio 🌐 — https://jay-kumar-android.github.io/
+
 ### 📱 **Mobile Development**
 - **UI/UX:** Jetpack Compose, Material Design, XML Layouts, Data Binding
 - **Architecture:** MVVM, Clean Architecture, Repository Pattern
